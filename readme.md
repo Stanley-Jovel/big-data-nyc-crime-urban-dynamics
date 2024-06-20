@@ -4,7 +4,7 @@
 
 This project investigates the relationships between crime rates, property values, subway ridership, and business perceptions in New York City. By integrating multiple datasets, we aim to provide valuable insights for pedestrians, homeowners, policymakers, and urban planners.
 
-See [project paper here](/BDAD_Project_Report.pdf)
+See [project paper here](/NYC_research_paper.pdf)
 
 ## Data Sources
 
@@ -54,4 +54,4 @@ Detailed analyses were conducted to explore the impact of crime on businesses, s
 
 We thank New York University for providing resources and support, including a free student license for Tableau and access to the NYU HPC Dataproc cluster. Special thanks to Professor Yang Tang for his guidance.
 
-For more detailed information, please refer to the [project paper](/BDAD_Project_Report.pdf) and analysis notebooks in this repository.
+For more detailed information, please refer to the [project paper](/NYC_research_paper.pdf) and analysis notebooks in this repository.
